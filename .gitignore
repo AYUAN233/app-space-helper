@@ -1,0 +1,10 @@
+build/
+dist/
+signing/*.jks
+*.jks
+*.keystore
+local.properties
+*.iml
+.idea/
+.DS_Store
+*.idsig

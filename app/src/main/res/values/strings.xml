@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">应用空间助手</string>
+    <string name="accessibility_label">应用空间助手 · 自动关闭</string>
+    <string name="accessibility_description">读取系统应用详情页，逐台关闭「自动释放应用空间」开关并记录结果。只会操作这一个开关，不会卸载应用，也不会修改应用数据。</string>
+    <string name="author_name">AYUAN</string>
+    <string name="author_url" translatable="false">https://github.com/AYUAN233</string>
+</resources>
